@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reina del Secreto 💌</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background-color: #ffe6f2;
+            color: #333;
+            text-align: center;
+            margin: 40px;
+        }
+        h1 {
+            color: #cc0066;
+        }
+        p {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>💋 Bienvenida a Reina del Secreto 💋</h1>
+    <p>Aquí los rumores viven, pero nadie sabe quién los cuenta...</p>
+</body>
+</html>
